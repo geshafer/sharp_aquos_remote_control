@@ -2,7 +2,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "sharp_aquos_remote_control"
-  s.version     = "1.0.1"
+  s.version     = "1.0.2"
   s.authors     = ["Gale Shafer"]
   s.email       = ["developers@squaremouth.com"]
   s.summary     = "Gem for adding Sharp Aquos Remote Control functionality with Ruby."
